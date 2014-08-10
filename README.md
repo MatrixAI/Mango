@@ -70,12 +70,9 @@ Steps
 
 * Write down all of the technical specifications of the electronic boards known as "Raspberry Pi" or "Beaglebone" or close competitors.
 * Compare all technical specifications.
-* Maria Foo needs to understand all the acronyms that is used to describe technical specifications.
-* Maria Foo needs to construct a matrix that matches all of the specifications with the requirements.
-* Maria Foo will make mistakes.
-* Maria Foo will need to compensate for these mistakes by making random guesses. Or educated guesses.
-* Maria Foo needs to then buy these components.
-* In the mean time as they are being delivered. Maria Foo needs to read MANUALS with regards the particular technical components. Such as for example: THE USB. THE USB MANUAL.
-* Maria Foo needs to put these components together. And see if they break or explode.
+* Understand all the acronyms that is used to describe technical specifications.
+* Construct a matrix that matches all of the specifications with the requirements.
+* Buy these components.
+* In the mean time as they are being delivered. Read the MANUAL with regards the particular technical components. Such as for example: THE USB. THE USB MANUAL.
 * ITERATE.
 * TADAA!!!
