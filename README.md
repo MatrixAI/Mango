@@ -19,7 +19,7 @@ User Friendly Interface
 Long lasting battery
 USB interfaces
 Disk Space Sufficient for backup
-No sounds?
+Sounds?
 Light Indicator for Status
 Visual GUI
 
