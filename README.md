@@ -63,7 +63,8 @@ Design
 Carbon black
 Metallic grey
 Flexible epaper
-Seamless text display so that the text looks like it just appears on the skin of product: http://1.bp.blogspot.com/-szUHbGewUko/Tco38i35KFI/AAAAAAAAGHk/XOtf8dpdtLY/s1600/stick_pop+Future+technology+devices+concept+%25E2%2580%2593+Portable+printer-03.jpg
+Seamless text display so that the text looks like it just appears on the skin of product:
+[E-ink](http://1.bp.blogspot.com/-szUHbGewUko/Tco38i35KFI/AAAAAAAAGHk/XOtf8dpdtLY/s1600/stick_pop+Future+technology+devices+concept+%25E2%2580%2593+Portable+printer-03.jpg)
 
 Steps
 -----
