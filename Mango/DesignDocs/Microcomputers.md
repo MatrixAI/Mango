@@ -5,5 +5,4 @@
 * Cubieboard/CubieTruck
 * Wandboard (Solo, Dual, Quad)
 * Pandaboard
-
 * TBC...
