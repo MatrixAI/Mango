@@ -2,8 +2,8 @@
 * Beaglebone/Beagleboard
 * UDOO Quad
 * Banana Pi
-* Cubieboard/ CubieTruck
-* Wandboard - Solo, Dual, Quad
+* Cubieboard/CubieTruck
+* Wandboard (Solo, Dual, Quad)
 * Pandaboard
 
 * TBC...
