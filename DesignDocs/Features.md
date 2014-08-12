@@ -16,6 +16,6 @@ All of these will be accessable through thier respective sub-domains on the webs
 - Chat (IRC/P2P encyrpted stuff for security freaks)
 
 ##Service Compatability
-- Pricate file storage (OwnCloud)
+- Private file storage (OwnCloud)
 - Chat systems (Iris, IRC)
 - Social networking (Disapora/Friendica/Freenet)
