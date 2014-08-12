@@ -1,5 +1,5 @@
 #Features
-A list of *Mango* services/modules/features, basically everything that'll be running on top of the basic system.
+A list of *Mango* services/modules/features, basically everything that'll be running on top of the basic system.  
 *This is just an incomplete list of my ideas, modification, discussion and expansion is strongly encouraged.*
 ##Technical
 - Webserver (Apache, per say - since most of the 'modules' will be available through a web interface)
@@ -14,4 +14,3 @@ All of these will be accessable through thier respective sub-domains on the webs
 - File storage/sharing/backup (e.g. Owncloud)
 - Media streaming (?)
 - Chat (IRC/P2P encyrpted stuff for security freaks)
-- 
