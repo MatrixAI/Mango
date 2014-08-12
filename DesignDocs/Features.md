@@ -14,3 +14,8 @@ All of these will be accessable through thier respective sub-domains on the webs
 - File storage/sharing/backup (e.g. Owncloud)
 - Media streaming (?)
 - Chat (IRC/P2P encyrpted stuff for security freaks)
+
+##Service Compatability
+- Pricate file storage (OwnCloud)
+- Chat systems (Iris, IRC)
+- Social networking (Disapora/Friendica/Freenet)
