@@ -17,3 +17,5 @@ Our current options are:
 + Select a different, more reliable filesystem (__BTRFS__, __ZFS__, see links in the _Situation_)
 + Implement an offline/secure backup solution
 + Cry and give up
+
+We could also conduct a series of poweroff tests with different SD cards to deterime wether newer cards have inbuilt ECC.
