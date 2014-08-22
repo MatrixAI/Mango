@@ -18,4 +18,4 @@ Our current options are:
 + Implement an offline/secure backup solution
 + Cry and give up
 
-We could also conduct a series of poweroff tests with different SD cards to deterime wether newer cards have inbuilt ECC.
+We could also conduct a series of poweroff tests with different SD cards to determine wether newer cards have inbuilt ECC.
