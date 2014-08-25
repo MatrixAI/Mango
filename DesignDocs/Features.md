@@ -16,3 +16,4 @@ All of these will be accessable through thier respective sub-domains on the webs
 - Chat (IRC/P2P encyrpted stuff for security freaks e.g. Iris)
 - Clientless remote desktop server (Guacamole)
 - Social networking (Disapora/Friendica/Freenet)
+- P2P Networking (Commotion)
