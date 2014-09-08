@@ -1,6 +1,6 @@
 # Filesystems brief
 ## Situation
-We are currently using __ext4__ filesystem on or __MAN-00__ protoype.
+We are currently using __ext4__ filesystem on or __MAN-00__ prototype.
 Together with power cuts, it makes the SD card corruption-prone. 
 Online backups don't really match our 'own-secure-server' product philosophy.
 Read more on filesystems: [JFS](http://en.wikipedia.org/wiki/Journaling_file_system),
