@@ -30,7 +30,7 @@ Key points:
 ##Our product philosophy will be similar to:
 + [Sandstorm] (https://sandstorm.io/)
 
-But, the *Mango* will have an extra layer of security. Dedicated hardware means you can protect after your server 24/7. 
+But, the *Mango* will have an extra layer of security. Dedicated hardware means you can protect your information 24/7. 
 
 ##News associated with server security:
 + [iCloud hack 2014] (http://www.theguardian.com/technology/2014/sep/05/apple-tightens-icloud-security-after-celebrity-nude-photo-hack)
