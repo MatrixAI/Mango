@@ -33,4 +33,4 @@ Key points:
 But, the *Mango* will have an extra layer of security. Dedicated hardware means you can protect after your server 24/7. 
 
 ##News associated with server security:
-+ [iCloud hack] (http://www.theguardian.com/technology/2014/sep/05/apple-tightens-icloud-security-after-celebrity-nude-photo-hack)
++ [iCloud hack 2014] (http://www.theguardian.com/technology/2014/sep/05/apple-tightens-icloud-security-after-celebrity-nude-photo-hack)
