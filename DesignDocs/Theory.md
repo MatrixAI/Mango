@@ -24,6 +24,7 @@ Key points:
     Key Points:
       + Verifying that data exists only at allowed locations can be difficult. 
       + It requires the cloud customer to trust that their cloud provider is completely honest and open about where their servers are hosted and adhere strictly to service level agreements (SLAs).
+
 + [Internet of Things] (https://s3.amazonaws.com/kato-share/3bee5fe2eed57721a26aa29f32c1666aef6afd362b5074ebdc11b3392584d455/DZone_GuideToInternetOfThings_6.pdf)
 
 ##Our product philosophy will be similar to:
