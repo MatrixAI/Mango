@@ -20,6 +20,7 @@ Key points:
 
 ##Related topics:
 + [Data Soverignty] (http://whatis.techtarget.com/definition/data-sovereignty) 
+    
     Key Points:
       + Verifying that data exists only at allowed locations can be difficult. 
       + It requires the cloud customer to trust that their cloud provider is completely honest and open about where their servers are hosted and adhere strictly to service level agreements (SLAs).
