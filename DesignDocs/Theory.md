@@ -2,9 +2,9 @@
 This is a list of websites and journal articles to explain the personal server. 
 It also includes websites of competitors or similar products useful to the *Mango*.
 
-[Brief explanation on what is a server] (http://www.techterms.com/definition/server) 
+[Brief explanation on what is a server.] (http://www.techterms.com/definition/server) 
 
-[Short introduction to the personal server] (https://citizenweb.is/guide/srv/1-why)
+[Short introduction to the personal server.] (https://citizenweb.is/guide/srv/1-why)
 
 Key points:
 + Data given to platform services like Google or Facebook risks being handed to other people without your consent
@@ -24,8 +24,6 @@ Key points:
       + Verifying that data exists only at allowed locations can be difficult. 
       + It requires the cloud customer to trust that their cloud provider is completely honest and open about where their servers are hosted and adhere strictly to service level agreements (SLAs).
 + [Internet of Things] (https://s3.amazonaws.com/kato-share/3bee5fe2eed57721a26aa29f32c1666aef6afd362b5074ebdc11b3392584d455/DZone_GuideToInternetOfThings_6.pdf)
-
---------------------------------------------
 
 ##Our product philosophy will be similar to:
 + [Sandstorm] (https://sandstorm.io/)
