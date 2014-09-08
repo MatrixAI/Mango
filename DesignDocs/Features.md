@@ -10,10 +10,10 @@ A list of *Mango* services/modules/features, basically everything that'll be run
 - PROFIT!!!
 
 ##Functional
-All of these will be accessable through thier respective sub-domains on the webserver.
-- File storage/sharing/backup (e.g. Owncloud)
+All of these will be accessible through their respective sub-domains on the webserver.
+- File storage/sharing/backup (e.g. ownCloud)
 - Media streaming (?)
-- Chat (IRC/P2P encyrpted stuff for security freaks e.g. Iris)
+- Chat (IRC/P2P encrypted stuff for security freaks e.g. Iris)
 - Clientless remote desktop server (Guacamole)
 - Social networking (Disapora/Friendica/Freenet)
 - P2P Networking (Commotion)
