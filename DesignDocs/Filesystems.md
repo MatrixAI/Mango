@@ -6,11 +6,11 @@ Online backups don't really match our 'own-secure-server' product philosophy.
 Read more on filesystems: [JFS](http://en.wikipedia.org/wiki/Journaling_file_system),
 [LSFS](http://en.wikipedia.org/wiki/Log-structured_file_system)
 [COW](http://en.wikipedia.org/wiki/Copy-on-write)
-[Seleting a FS](http://superuser.com/questions/248078/choice-of-filesystem-for-gnu-linux-on-an-sd-card)
+[Selecting a FS](http://superuser.com/questions/248078/choice-of-filesystem-for-gnu-linux-on-an-sd-card)
 [RasPi SD problems](http://comments.gmane.org/gmane.comp.file-systems.btrfs/31821)
 
 ## Mission
-Come up with a solution to minimize or eleiminate this risk.
+Come up with a solution to minimise or eliminate this risk.
 
 ## Execution
 Our current options are:
