@@ -13,5 +13,4 @@ To create mango.mango:255 go to terminal. Then:
 2. cat /etc/hosts
 3. Add: 
 
-# mango
-180.200.128.124 mango.mango
+180.200.128.124 mango.mango"
