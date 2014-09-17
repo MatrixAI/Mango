@@ -36,4 +36,4 @@ But, the *Mango* will have an extra layer of security. Dedicated hardware means 
 + [iCloud hack 2014] (http://www.theguardian.com/technology/2014/sep/05/apple-tightens-icloud-security-after-celebrity-nude-photo-hack)
 
 ##People we can contact:
-+ Efren Katague *Katague Consulting Solutions p/l* <email: ekatague@kcscon.com>
++ Efren Katague **Katague Consulting Solutions p/l** email: ekatague@kcscon.com
