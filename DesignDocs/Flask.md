@@ -1,7 +1,7 @@
-#(Flask)[http://flask.pocoo.org/docs/0.10/installation/#installation] Installation
+#[Flask](http://flask.pocoo.org/docs/0.10/installation/#installation) Installation
 
 1. Install pip on Archlinux using: sudo pacman -S python-pip
-(how to install pip)[http://ask.xmodulo.com/install-pip-linux.html]
+[how to install pip](http://ask.xmodulo.com/install-pip-linux.html)
 
 [mariafoo@mango-zero ~]$ sudo pacman -S python-pip
 resolving dependencies...
